@@ -1,0 +1,1 @@
+run "EP3_fazendo.m" in MATLAB

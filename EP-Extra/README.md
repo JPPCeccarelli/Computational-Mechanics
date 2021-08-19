@@ -1,0 +1,1 @@
+To modify the discretization parameter, change the "h" variable value in line 17
